@@ -1,0 +1,8 @@
+{
+  "name": "NexusAI Architect",
+  "description": "A comprehensive AI-driven platform for building, testing, and deploying production-ready web applications with integrated God-Mode admin controls and automated QA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
